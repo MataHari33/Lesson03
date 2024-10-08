@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Home {
+module Lessons {
 }
