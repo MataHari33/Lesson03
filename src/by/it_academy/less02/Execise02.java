@@ -7,7 +7,7 @@ public class Execise02  {
 		int c =3;
 		
 		int z;
-		z = (b / 2)*(a - 3)  + c
+		z = (b / 2)*(a - 3)  + c;
 		System.out.println("z = ( (a Ц 3 ) * b / 2) + c равно " + z);
 	}
 		
